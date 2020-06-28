@@ -11,6 +11,7 @@ package unoGame;
  */
 public class Uno extends Game {
 
+ GroupOfCards grpCard = new GroupOfCards(7);
 private String Game;
 
 
